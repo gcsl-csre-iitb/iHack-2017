@@ -6,8 +6,8 @@ The project focuses on aiding the visually impaired. We intend to aid the blind 
 For more details about i_hack: https://www.ecell.in/esummit/ihack/
 
 Team: 
-* [Abhishek Potnis](https://github.com/abhishekvp)
 * [Rajat Shinde](https://github.com/omshinde)
 * [Pankaj Tarone](https://github.com/pan111)
 * [Aman Verma](https://github.com/aman9v)
 * [Aarif Shaikh](https://github.com/aarifsk)
+* [Abhishek Potnis](https://github.com/abhishekvp)
