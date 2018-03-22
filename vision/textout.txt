@@ -1,0 +1,501 @@
+locale: "en"
+description: "37\nALARM\nTO STOP TRAIN PULL CHAIN\nPENALTY FOR USE WITHOUT REASONABLE AND SUFFICIENT\nCAUSE FINE UPTO Rs 1000 ANDIOR IMPRISONMENT UPTO ONE YEAR\n"
+bounding_poly {
+  vertices {
+    x: 269
+    y: 403
+  }
+  vertices {
+    x: 1734
+    y: 403
+  }
+  vertices {
+    x: 1734
+    y: 1178
+  }
+  vertices {
+    x: 269
+    y: 1178
+  }
+}
+
+description: "37"
+bounding_poly {
+  vertices {
+    x: 452
+    y: 403
+  }
+  vertices {
+    x: 588
+    y: 409
+  }
+  vertices {
+    x: 583
+    y: 511
+  }
+  vertices {
+    x: 448
+    y: 505
+  }
+}
+
+description: "ALARM"
+bounding_poly {
+  vertices {
+    x: 1218
+    y: 455
+  }
+  vertices {
+    x: 1663
+    y: 474
+  }
+  vertices {
+    x: 1658
+    y: 574
+  }
+  vertices {
+    x: 1214
+    y: 555
+  }
+}
+
+description: "TO"
+bounding_poly {
+  vertices {
+    x: 332
+    y: 934
+  }
+  vertices {
+    x: 483
+    y: 937
+  }
+  vertices {
+    x: 481
+    y: 1023
+  }
+  vertices {
+    x: 330
+    y: 1020
+  }
+}
+
+description: "STOP"
+bounding_poly {
+  vertices {
+    x: 521
+    y: 938
+  }
+  vertices {
+    x: 800
+    y: 943
+  }
+  vertices {
+    x: 798
+    y: 1024
+  }
+  vertices {
+    x: 519
+    y: 1019
+  }
+}
+
+description: "TRAIN"
+bounding_poly {
+  vertices {
+    x: 828
+    y: 944
+  }
+  vertices {
+    x: 1130
+    y: 950
+  }
+  vertices {
+    x: 1128
+    y: 1026
+  }
+  vertices {
+    x: 827
+    y: 1020
+  }
+}
+
+description: "PULL"
+bounding_poly {
+  vertices {
+    x: 1163
+    y: 950
+  }
+  vertices {
+    x: 1410
+    y: 955
+  }
+  vertices {
+    x: 1408
+    y: 1031
+  }
+  vertices {
+    x: 1162
+    y: 1026
+  }
+}
+
+description: "CHAIN"
+bounding_poly {
+  vertices {
+    x: 1432
+    y: 956
+  }
+  vertices {
+    x: 1714
+    y: 962
+  }
+  vertices {
+    x: 1712
+    y: 1037
+  }
+  vertices {
+    x: 1431
+    y: 1032
+  }
+}
+
+description: "PENALTY"
+bounding_poly {
+  vertices {
+    x: 382
+    y: 1037
+  }
+  vertices {
+    x: 598
+    y: 1039
+  }
+  vertices {
+    x: 597
+    y: 1085
+  }
+  vertices {
+    x: 382
+    y: 1083
+  }
+}
+
+description: "FOR"
+bounding_poly {
+  vertices {
+    x: 612
+    y: 1039
+  }
+  vertices {
+    x: 706
+    y: 1040
+  }
+  vertices {
+    x: 706
+    y: 1083
+  }
+  vertices {
+    x: 612
+    y: 1082
+  }
+}
+
+description: "USE"
+bounding_poly {
+  vertices {
+    x: 722
+    y: 1039
+  }
+  vertices {
+    x: 812
+    y: 1040
+  }
+  vertices {
+    x: 812
+    y: 1085
+  }
+  vertices {
+    x: 722
+    y: 1084
+  }
+}
+
+description: "WITHOUT"
+bounding_poly {
+  vertices {
+    x: 825
+    y: 1040
+  }
+  vertices {
+    x: 1025
+    y: 1042
+  }
+  vertices {
+    x: 1025
+    y: 1086
+  }
+  vertices {
+    x: 825
+    y: 1084
+  }
+}
+
+description: "REASONABLE"
+bounding_poly {
+  vertices {
+    x: 1042
+    y: 1041
+  }
+  vertices {
+    x: 1329
+    y: 1044
+  }
+  vertices {
+    x: 1328
+    y: 1089
+  }
+  vertices {
+    x: 1042
+    y: 1086
+  }
+}
+
+description: "AND"
+bounding_poly {
+  vertices {
+    x: 1341
+    y: 1047
+  }
+  vertices {
+    x: 1426
+    y: 1048
+  }
+  vertices {
+    x: 1426
+    y: 1090
+  }
+  vertices {
+    x: 1341
+    y: 1089
+  }
+}
+
+description: "SUFFICIENT"
+bounding_poly {
+  vertices {
+    x: 1439
+    y: 1046
+  }
+  vertices {
+    x: 1664
+    y: 1048
+  }
+  vertices {
+    x: 1664
+    y: 1092
+  }
+  vertices {
+    x: 1439
+    y: 1090
+  }
+}
+
+description: "CAUSE"
+bounding_poly {
+  vertices {
+    x: 269
+    y: 1120
+  }
+  vertices {
+    x: 435
+    y: 1120
+  }
+  vertices {
+    x: 435
+    y: 1178
+  }
+  vertices {
+    x: 269
+    y: 1178
+  }
+}
+
+description: "FINE"
+bounding_poly {
+  vertices {
+    x: 454
+    y: 1120
+  }
+  vertices {
+    x: 553
+    y: 1120
+  }
+  vertices {
+    x: 553
+    y: 1178
+  }
+  vertices {
+    x: 454
+    y: 1178
+  }
+}
+
+description: "UPTO"
+bounding_poly {
+  vertices {
+    x: 572
+    y: 1120
+  }
+  vertices {
+    x: 689
+    y: 1120
+  }
+  vertices {
+    x: 689
+    y: 1178
+  }
+  vertices {
+    x: 572
+    y: 1178
+  }
+}
+
+description: "Rs"
+bounding_poly {
+  vertices {
+    x: 711
+    y: 1120
+  }
+  vertices {
+    x: 769
+    y: 1120
+  }
+  vertices {
+    x: 769
+    y: 1178
+  }
+  vertices {
+    x: 711
+    y: 1178
+  }
+}
+
+description: "1000"
+bounding_poly {
+  vertices {
+    x: 800
+    y: 1120
+  }
+  vertices {
+    x: 897
+    y: 1120
+  }
+  vertices {
+    x: 897
+    y: 1178
+  }
+  vertices {
+    x: 800
+    y: 1178
+  }
+}
+
+description: "ANDIOR"
+bounding_poly {
+  vertices {
+    x: 908
+    y: 1120
+  }
+  vertices {
+    x: 1074
+    y: 1120
+  }
+  vertices {
+    x: 1074
+    y: 1178
+  }
+  vertices {
+    x: 908
+    y: 1178
+  }
+}
+
+description: "IMPRISONMENT"
+bounding_poly {
+  vertices {
+    x: 1095
+    y: 1120
+  }
+  vertices {
+    x: 1408
+    y: 1120
+  }
+  vertices {
+    x: 1408
+    y: 1178
+  }
+  vertices {
+    x: 1095
+    y: 1178
+  }
+}
+
+description: "UPTO"
+bounding_poly {
+  vertices {
+    x: 1429
+    y: 1120
+  }
+  vertices {
+    x: 1526
+    y: 1120
+  }
+  vertices {
+    x: 1526
+    y: 1178
+  }
+  vertices {
+    x: 1429
+    y: 1178
+  }
+}
+
+description: "ONE"
+bounding_poly {
+  vertices {
+    x: 1547
+    y: 1120
+  }
+  vertices {
+    x: 1615
+    y: 1120
+  }
+  vertices {
+    x: 1615
+    y: 1178
+  }
+  vertices {
+    x: 1547
+    y: 1178
+  }
+}
+
+description: "YEAR"
+bounding_poly {
+  vertices {
+    x: 1635
+    y: 1120
+  }
+  vertices {
+    x: 1734
+    y: 1120
+  }
+  vertices {
+    x: 1734
+    y: 1178
+  }
+  vertices {
+    x: 1635
+    y: 1178
+  }
+}
+
